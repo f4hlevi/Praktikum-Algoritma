@@ -1,0 +1,12 @@
+Data mahasiswa ke-1
+Nama: fajri
+NIM: 23343062
+Jurusan: Elektronika
+Program Studi: Informatika
+
+Data mahasiswa ke-2
+Nama: Radit
+NIM: 23343063
+Jurusan: Elektronika
+Program Studi: Informatika
+
